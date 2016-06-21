@@ -7,6 +7,8 @@ html
   body
     .container
       .row
+        .pull-right
+          a(href='/login') Log In
         .col-sm-8.col-sm-offset-2
           h1
             span.fa.fa-sign-in Signup
@@ -25,3 +27,5 @@ html
               input.form-control(type='password', name='password')
             button.btn.btn-warning.btn-lg(type='submit') Signup
           hr
+          a(href='/auth/facebook')
+img(src='/fb-login-button.png', width='200')

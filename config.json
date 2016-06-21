@@ -1,0 +1,13 @@
+{
+  "facebook": {
+    "appId": "1741500456128996",
+    "appSecret": "51a0d60dd942b82437fe6ad87b410cec",
+    "callback": "http://localtest.me:3000/auth/facebook/callback"
+  },
+
+  "twitter": {
+    "appId": "  cqec8JGPXp1LU0f5tnzpgFVlO",
+    "appSecret": "EInIVYoG8oyJaRvl0RNo7JP2WDpGWgXQWPStsGy681Eg1W8SPw",
+    "callback": "http://localtest.me:3000/auth/twitter/callback"
+  }
+}
